@@ -34,6 +34,7 @@ Referencias:
 
 ●  Material de la Unidad 2 de Prácticas Profesionalizantes 1.
 
+--------------------------
 
 2. Descripción general
    
@@ -53,6 +54,7 @@ g) Suposiciones y dependencias: El funcionamiento del sistema en la vía públic
 
 h) Mensajería espontánea: El usuario le podrá enviar un mensaje rápido al feriante para compartir información y/ o realizar algún encuentro fuera de la feria para una posible compra.
 
+--------------------------
  
 3. Características del sistema
 Agrupamos los requerimientos en 5 módulos principales:
@@ -67,6 +69,7 @@ Agrupamos los requerimientos en 5 módulos principales:
 
 ●  Módulo de Business Intelligence Municipal: Panel con gráficos para que la Municipalidad pueda ver qué zonas tienen más movimiento, qué rubros crecen más y organizar mejor las políticas de apoyo al sector. 
 
+--------------------------
 
 4. Requerimientos de la interfaz externa
    
@@ -78,6 +81,7 @@ Agrupamos los requerimientos en 5 módulos principales:
 
  d) Interfaces de las comunicaciones: Optimización de carga de imágenes para consumir pocos datos móviles, ya que se usará mucho en plazas y parques.
 
+--------------------------
  
  5. Otros requerimientos no funcionales
     
@@ -96,7 +100,7 @@ Portabilidad y Datos Móviles: Se optimizará la carga de imágenes y recursos p
 Disponibilidad: El sistema deberá mantenerse operativo y accesible de forma permanente, priorizando su disponibilidad en los horarios habituales de feria (idealmente 24 horas).
 
 Documentación: Se incorporará soporte de ayuda en línea y una guía visual orientada a facilitar el primer ingreso y registro de los feriantes.
-
+--------------------------
 7. Otros requerimientos (Técnicas de Exploración)
 
  
