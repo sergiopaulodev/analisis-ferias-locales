@@ -4,6 +4,7 @@
 **Materia**: Prácticas Profesionalizantes 1
 **Profesora**: Gisela B. Gorjon
 **Analistas de requerimientos**: Murano Manuel, Torres Sergio, Martinez Facundo, Lourdes De Andres, Cisneros Nahuel . 
+
  
 1. Introducción
    
@@ -23,8 +24,7 @@ Referencias:
 
 ●  Material de la Unidad 2 de Prácticas Profesionalizantes 1.
 
- 
- 
+
 2. Descripción general
    
 a) Perspectiva del producto: Será un sistema web independiente que utilizará APIs* de mapas (Google Maps) para mostrar la información del circuito de ferias de la ciudad en tiempo real.
@@ -47,41 +47,51 @@ h) Mensajería espontánea: El usuario le podrá enviar un mensaje rápido al fe
 3. Características del sistema
 Agrupamos los requerimientos en 5 módulos principales:
 
-●     Módulo de Usuarios y Autenticación: Sistema de registro de usuarios según su rol. Los feriantes arman su perfil, suben fotos, definen su rubro y pueden enlazar sus redes sociales (muy útil para los que usan la feria como punto de entrega o vidriera) y su número de teléfono.
+● Módulo de Usuarios y Autenticación: Sistema de registro de usuarios según su rol. Los feriantes arman su perfil, suben fotos, definen su rubro y pueden enlazar sus redes sociales (muy útil para los que usan la feria como punto de entrega o vidriera) y su número de teléfono.
 
-●     Módulo de Visibilización Ciudadana: Pantalla principal con el mapa de la ciudad y pines que marcan dónde hay ferias abiertas. Permite buscar por tipo de producto y ver la información de cada puesto.
+● Módulo de Visibilización Ciudadana: Pantalla principal con el mapa de la ciudad y pines que marcan dónde hay ferias abiertas. Permite buscar por tipo de producto y ver la información de cada puesto.
 
-●     Módulo de Asignación de Puestos y Fila de Espera: Los feriantes se postulan para ir a una feria. Si no hay lugar, quedan en una lista de espera virtual. Si alguien se da de baja, el sistema le avisa automáticamente al que sigue en la fila. Los organizadores pueden habilitar o rechazar puestos según si cumplen con las reglas.
+● Módulo de Asignación de Puestos y Fila de Espera: Los feriantes se postulan para ir a una feria. Si no hay lugar, quedan en una lista de espera virtual. Si alguien se da de baja, el sistema le avisa automáticamente al que sigue en la fila. Los organizadores pueden habilitar o rechazar puestos según si cumplen con las reglas.
 
-●     Módulo de Fiscalización y Bromatología: Pantalla exclusiva para inspectores que permite leer códigos QR desde la cámara del celular para chequear libretas sanitarias o permisos en el acto.
+● Módulo de Fiscalización y Bromatología: Pantalla exclusiva para inspectores que permite leer códigos QR desde la cámara del celular para chequear libretas sanitarias o permisos en el acto.
 
-●     Módulo de Business Intelligence Municipal: Panel con gráficos para que la Municipalidad pueda ver qué zonas tienen más movimiento, qué rubros crecen más y organizar mejor las políticas de apoyo al sector. 
+●  Módulo de Business Intelligence Municipal: Panel con gráficos para que la Municipalidad pueda ver qué zonas tienen más movimiento, qué rubros crecen más y organizar mejor las políticas de apoyo al sector. 
 
 
 4. Requerimientos de la interfaz externa
-a) Interfaces de usuario: Diseño enfocado en el uso desde el celular, con letras legibles y buen contraste para que se pueda ver bien al aire libre bajo el sol.
+   
+ a) Interfaces de usuario: Diseño enfocado en el uso desde el celular, con letras legibles y buen contraste para que se pueda ver bien al  aire libre bajo el sol.
 
-b) Interfaces de hardware: Permisos para acceder a la cámara del teléfono (para escanear QRs), el GPS (para centrar el mapa en la ubicación del usuario) y permisos de notificaciones (para avisos importantes sobre el clima o espectáculos próximos).
+ b) Interfaces de hardware: Permisos para acceder a la cámara del teléfono (para escanear QRs), el GPS (para centrar el mapa en la  ubicación del usuario) y permisos de notificaciones (para avisos importantes sobre el clima o espectáculos próximos).
 
-c) Interfaces de software: Conexión con la API de Google Maps para cargar la cartografía de Bahía Blanca.
+ c) Interfaces de software: Conexión con la API de Google Maps para cargar la cartografía de Bahía Blanca.
 
-d) Interfaces de las comunicaciones: Optimización de carga de imágenes para consumir pocos datos móviles, ya que se usará mucho en plazas y parques.
+ d) Interfaces de las comunicaciones: Optimización de carga de imágenes para consumir pocos datos móviles, ya que se usará mucho en plazas y parques.
+
  
  5. Otros requerimientos no funcionales
+    
 Desempeño: Tanto el mapa interactivo como el motor de búsqueda deben ofrecer respuestas ágiles, operando en un tiempo menor a 2 segundos.
+
 Seguridad: El sistema garantizará la protección de la información mediante el cifrado de contraseñas y conexiones seguras.
+
 Estabilidad y Consistencia: Se implementarán operaciones atómicas en la gestión de la fila de espera para prevenir y evitar la doble asignación de un mismo puesto ferial.
+
 Usabilidad: La interfaz mantendrá un diseño simple e intuitivo que no requiera tutoriales extensos, incorporando además un buen contraste visual para facilitar su uso al aire libre bajo la luz solar.
+
 Compatibilidad: La solución estará diseñada para funcionar de manera fluida en los principales navegadores web estándar (tales como Chrome, Firefox, Safari y Edge) y contar con soporte adaptado para dispositivos móviles Android e iOS.
+
 Portabilidad y Datos Móviles: Se optimizará la carga de imágenes y recursos para asegurar un bajo consumo de datos móviles, considerando el uso frecuente de la plataforma en plazas y parques públicos.
+
 Disponibilidad: El sistema deberá mantenerse operativo y accesible de forma permanente, priorizando su disponibilidad en los horarios habituales de feria (idealmente 24 horas).
+
 Documentación: Se incorporará soporte de ayuda en línea y una guía visual orientada a facilitar el primer ingreso y registro de los feriantes.
 
-6. Otros requerimientos (Técnicas de Exploración)
+7. Otros requerimientos (Técnicas de Exploración)
 
  
  
-7. Apéndices
+8. Apéndices
 *Glosario de Actores*
 *Actor*
 *Descripción*
