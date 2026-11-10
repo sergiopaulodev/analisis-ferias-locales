@@ -6,6 +6,7 @@
 **Analistas de requerimientos**: Murano Manuel, Torres Sergio, Martinez Facundo, Lourdes De Andres, Cisneros Nahuel . 
  
 1. Introducción
+   
 Propósito: Documentar los requerimientos funcionales y no funcionales necesarios para el desarrollo de una plataforma web y móvil destinada a la gestión y jerarquización de las ferias locales de Bahía Blanca. Como premisa fundamental, el sistema buscará respaldar activamente a los feriantes que mantengan un compromiso constante con las convocatorias, cumplan con las normativas regulatorias y consoliden su actividad como un negocio formal y saludable para el crecimiento de minipymes y emprendedores regionales.  
 
 Convenciones del documento: El documento se estructura según el estándar ERS visto en la cátedra para el ciclo de vida del software, basándonos en las reglas del sector ferial local.
@@ -14,14 +15,18 @@ Audiencia del proyecto y sugerencias de lectura: El texto está dirigido a los f
 
 Alcance del Proyecto: La plataforma busca organizar la información dispersa sobre las ferias de la ciudad. Conectará a los ciudadanos (a través de un mapa interactivo), a los feriantes (mediante registro y listas de espera) y a los organizadores/Municipio (para tareas de fiscalización y armado de estadísticas).
 
-Referencias:
-●     Informe "Primeras aproximaciones al fenómeno de las ferias en Bahía Blanca" (Cantamutto et al., 2023).
-●     Ordenanza 11.947 de la Municipalidad de Bahía Blanca.
-●     Material de la Unidad 2 de Prácticas Profesionalizantes 1.
+Referencias: 
+
+●  Informe "Primeras aproximaciones al fenómeno de las ferias en Bahía Blanca" (Cantamutto et al., 2023).
+
+●  Ordenanza 11.947 de la Municipalidad de Bahía Blanca.
+
+●  Material de la Unidad 2 de Prácticas Profesionalizantes 1.
 
  
  
 2. Descripción general
+   
 a) Perspectiva del producto: Será un sistema web independiente que utilizará APIs* de mapas (Google Maps) para mostrar la información del circuito de ferias de la ciudad en tiempo real.
 
 b) Características del producto: Permite gestionar perfiles de usuarios, ubicar ferias itinerantes y fijas, automatizar la fila de espera para los puestos, cargar actas de inspección y visualizar datos estadísticos.
@@ -43,9 +48,13 @@ h) Mensajería espontánea: El usuario le podrá enviar un mensaje rápido al fe
 Agrupamos los requerimientos en 5 módulos principales:
 
 ●     Módulo de Usuarios y Autenticación: Sistema de registro de usuarios según su rol. Los feriantes arman su perfil, suben fotos, definen su rubro y pueden enlazar sus redes sociales (muy útil para los que usan la feria como punto de entrega o vidriera) y su número de teléfono.
+
 ●     Módulo de Visibilización Ciudadana: Pantalla principal con el mapa de la ciudad y pines que marcan dónde hay ferias abiertas. Permite buscar por tipo de producto y ver la información de cada puesto.
+
 ●     Módulo de Asignación de Puestos y Fila de Espera: Los feriantes se postulan para ir a una feria. Si no hay lugar, quedan en una lista de espera virtual. Si alguien se da de baja, el sistema le avisa automáticamente al que sigue en la fila. Los organizadores pueden habilitar o rechazar puestos según si cumplen con las reglas.
+
 ●     Módulo de Fiscalización y Bromatología: Pantalla exclusiva para inspectores que permite leer códigos QR desde la cámara del celular para chequear libretas sanitarias o permisos en el acto.
+
 ●     Módulo de Business Intelligence Municipal: Panel con gráficos para que la Municipalidad pueda ver qué zonas tienen más movimiento, qué rubros crecen más y organizar mejor las políticas de apoyo al sector. 
 
 
