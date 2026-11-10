@@ -4,9 +4,9 @@ PROYECTO
 
 ## Plataforma Integral de Gestión y Visibilización de Ferias Locales en Bahía Blanca
 
-**Analistas de requerimientos**: Murano Manuel, Torres Sergio, Martinez Facundo, Lourdes De Andres, Cisneros Nahuel . 
+**Analistas de requerimientos**: Murano Manuel, Torres Fernandez Sergio, Martinez Facundo, Lourdes De Andres, Cisneros Nahuel . 
 --------------------------
-Indice
+## Indice
    1. Introducción	
    2. Descripción general	
    3. Características del sistema	
@@ -16,7 +16,7 @@ Indice
    7. Anexo
 --------------------------
  
-1. Introducción
+## 1. Introducción
    
 Propósito: Documentar los requerimientos funcionales y no funcionales necesarios para el desarrollo de una plataforma web y móvil destinada a la gestión y jerarquización de las ferias locales de Bahía Blanca. Como premisa fundamental, el sistema buscará respaldar activamente a los feriantes que mantengan un compromiso constante con las convocatorias, cumplan con las normativas regulatorias y consoliden su actividad como un negocio formal y saludable para el crecimiento de minipymes y emprendedores regionales.  
 
@@ -26,7 +26,7 @@ Audiencia del proyecto y sugerencias de lectura: El texto está dirigido a los f
 
 Alcance del Proyecto: La plataforma busca organizar la información dispersa sobre las ferias de la ciudad. Conectará a los ciudadanos (a través de un mapa interactivo), a los feriantes (mediante registro y listas de espera) y a los organizadores/Municipio (para tareas de fiscalización y armado de estadísticas).
 
-Referencias: 
+### Referencias: 
 
 ●  Informe "Primeras aproximaciones al fenómeno de las ferias en Bahía Blanca" (Cantamutto et al., 2023).
 
@@ -36,7 +36,7 @@ Referencias:
 
 --------------------------
 
-2. Descripción general
+## 2. Descripción general
    
 a) Perspectiva del producto: Será un sistema web independiente que utilizará APIs* de mapas (Google Maps) para mostrar la información del circuito de ferias de la ciudad en tiempo real.
 
@@ -56,7 +56,7 @@ h) Mensajería espontánea: El usuario le podrá enviar un mensaje rápido al fe
 
 --------------------------
  
-3. Características del sistema
+## 3. Características del sistema
 Agrupamos los requerimientos en 5 módulos principales:
 
 ● Módulo de Usuarios y Autenticación: Sistema de registro de usuarios según su rol. Los feriantes arman su perfil, suben fotos, definen su rubro y pueden enlazar sus redes sociales (muy útil para los que usan la feria como punto de entrega o vidriera) y su número de teléfono.
@@ -71,7 +71,7 @@ Agrupamos los requerimientos en 5 módulos principales:
 
 --------------------------
 
-4. Requerimientos de la interfaz externa
+## 4. Requerimientos de la interfaz externa
    
  a) Interfaces de usuario: Diseño enfocado en el uso desde el celular, con letras legibles y buen contraste para que se pueda ver bien al  aire libre bajo el sol.
 
@@ -83,7 +83,7 @@ Agrupamos los requerimientos en 5 módulos principales:
 
 --------------------------
  
- 5. Otros requerimientos no funcionales
+ ## 5. Otros requerimientos no funcionales
     
 Desempeño: Tanto el mapa interactivo como el motor de búsqueda deben ofrecer respuestas ágiles, operando en un tiempo menor a 2 segundos.
 
@@ -103,11 +103,52 @@ Documentación: Se incorporará soporte de ayuda en línea y una guía visual or
 
 --------------------------
 
-7. Otros requerimientos (Técnicas de Exploración)
+## 6. Apéndices
+
+### Glosario de Actores
+
+| Actor | Descripción |
+| :--- | :--- |
+| **Ciudadano** | El vecino entra al sistema para ver el mapa, buscar qué ferias están abiertas el fin de semana, mirar los horarios y buscar qué stands hay disponibles. |
+| **Feriante** | El emprendedor o productor que usa la plataforma para ofrecer sus productos. Puede armar su catálogo, pedir lugar en las ferias, avisar si no va a ir y ceder su turno en la lista de espera. |
+| **Organizador Independiente** | Puede ser una sociedad de fomento, una cooperativa o un grupo barrial que coordina ferias que no son del Municipio. Usan el sistema para filtrar quién entra, ver los rubros y habilitar espacios. |
+| **Inspector Municipal** | El empleado de áreas como Bromatología que está en la calle y usa su celular para escanear las credenciales de los puestos y fiscalizar que todo esté en regla. También verificar que todas las habilitaciones solicitadas estén al día. |
+| **Analista BI / Administrador** | Personal interno de la Municipalidad que mira los gráficos del sistema para entender cómo se está moviendo el sector de las ferias y tomar decisiones. |
+
+---
+
+### Matriz de trazabilidad
+
+| Código | Requerimiento Funcional | Módulo Asociado | Caso de Uso Relacionado |
+| :--- | :--- | :--- | :--- |
+| **RF-01** | Registrar usuario según su rol (ciudadano, feriante, organizador, inspector, administrador). | Módulo de usuarios y autenticación | CU-01: Registrar Usuario |
+| **RF-02** | Iniciar sesión de forma segura, con usuario y contraseña predefinida. | Módulo de usuarios y autenticación | CU-02: Iniciar Sesión |
+| **RF-03** | Permitir editar perfil público del feriante (fotos, rubro, redes sociales). | Módulo de usuarios y autenticación | CU-03: Editar Perfil de Feriante |
+| **RF-04** | Recuperar contraseña. | Módulo de usuarios y autenticación | CU-04: Recuperar Contraseña |
+| **RF-05** | Consultar mapa interactivo con ferias activas en tiempo real. | Módulo de visibilización ciudadana | CU-05: Visualizar Mapa de Ferias |
+| **RF-06** | Buscar ferias por tipo de producto o rubro. | Módulo de visibilización ciudadana | CU-06: Filtrar Búsqueda de Ferias |
+| **RF-07** | Consultar ficha de feria (horarios, stands, feriantes participantes). | Módulo de visibilización ciudadana | CU-07: Consultar Ficha de Feria |
+| **RF-08** | Enviar mensaje espontáneo a un feriante. | Módulo de visibilización ciudadana | CU-08: Enviar Mensaje a Feriante |
+| **RF-09** | Postularse a una feria. | Módulo de asignación de puestos y fila de espera | CU-09: Postularse a Feria |
+| **RF-10** | Ingresar a lista de espera cuando no hay cupo. | Módulo de asignación de puestos y fila de espera | CU-10: Ingresar a Lista de Espera |
+| **RF-11** | Notificar automáticamente al siguiente de la lista ante una baja. | Módulo de asignación de puestos y fila de espera | CU-11: Reasignar Puesto Automáticamente |
+| **RF-12** | Confirmar o cancelar asistencia a una feria. | Módulo de asignación de puestos y fila de espera | CU-12: Confirmar Asistencia - Cancelar Asistencia |
+| **RF-13** | Habilitar o rechazar puesto (organizador). | Módulo de asignación de puestos y fila de espera | CU-13: Habilitar Puesto |
+| **RF-14** | Escanear código QR de libreta sanitaria o permiso. | Módulo de fiscalización y bromatología | CU-14: Escanear Código QR |
+| **RF-15** | Verificar vigencia de carnet de manipulador de alimentos. | Módulo de fiscalización y bromatología | CU-15: Verificar Carnet Sanitario |
+| **RF-16** | Registrar resultado de inspección. | Módulo de fiscalización y bromatología | CU-16: Actas de Inspección |
+| **RF-17** | Generar estadísticas de concurrencia por feria. | Módulo de Business Intelligence Municipal | CU-17: Reportes de Concurrencia |
+| **RF-18** | Visualizar los rubros con mayor crecimiento. | Módulo de Business Intelligence Municipal | CU-18: Análisis de Rubros |
+| **RF-19** | Identificar nivel de regularización de feriantes. | Módulo de Business Intelligence Municipal | CU-19: Control de Regularidad |
+| **RF-20** | Exportar reportes para la Municipalidad. | Módulo de Business Intelligence Municipal | CU-20: Exportación de Datos |
+
+--------------------------
+
+## 7. Otros requerimientos (Técnicas de Exploración)
 
  
  
-8. Apéndices
+## 8. Apéndices
 *Glosario de Actores*
 *Actor*
 *Descripción*
@@ -131,7 +172,7 @@ Personal interno de la Municipalidad que mira los gráficos del sistema para ent
 
 **integrantes**:
 *Manuel Murano*
-*Sergio Torres*
+*Sergio Torres Fernandez*
 *Facundo Martinez*
 *Nahuel Cisneros*
 *Lourde De Andres*
