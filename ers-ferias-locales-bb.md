@@ -100,7 +100,9 @@ Portabilidad y Datos Móviles: Se optimizará la carga de imágenes y recursos p
 Disponibilidad: El sistema deberá mantenerse operativo y accesible de forma permanente, priorizando su disponibilidad en los horarios habituales de feria (idealmente 24 horas).
 
 Documentación: Se incorporará soporte de ayuda en línea y una guía visual orientada a facilitar el primer ingreso y registro de los feriantes.
+
 --------------------------
+
 7. Otros requerimientos (Técnicas de Exploración)
 
  
