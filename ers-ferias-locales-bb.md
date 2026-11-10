@@ -1,8 +1,9 @@
+PROYECTO
+
 # Especificación de Requerimientos de Software (ERS)
+
 ## Plataforma Integral de Gestión y Visibilización de Ferias Locales en Bahía Blanca
-**Institución**: I.S.F.T N° 191 - Bahía Blanca
-**Materia**: Prácticas Profesionalizantes 1
-**Profesora**: Gisela B. Gorjon
+
 **Analistas de requerimientos**: Murano Manuel, Torres Sergio, Martinez Facundo, Lourdes De Andres, Cisneros Nahuel . 
 
  
