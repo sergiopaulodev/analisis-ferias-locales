@@ -59,17 +59,24 @@ Agrupamos los requerimientos en 5 módulos principales:
 
 
 4. Requerimientos de la interfaz externa
-- Interfaces de usuario: Diseño enfocado en el uso desde el celular, con letras legibles y buen contraste para que se pueda ver bien al aire libre bajo el sol.
-- Interfaces de hardware: Permisos para usar la cámara del teléfono (para escanear QRs) y el GPS (para centrar el mapa en la ubicación del usuario).
-- Interfaces de software: Conexión con la API de Google Maps para cargar la cartografía de Bahía Blanca.
-- Interfaces de las comunicaciones: Optimización de carga de imágenes para consumir pocos datos móviles, ya que se usará mucho en plazas y parques.
+a) Interfaces de usuario: Diseño enfocado en el uso desde el celular, con letras legibles y buen contraste para que se pueda ver bien al aire libre bajo el sol.
+
+b) Interfaces de hardware: Permisos para acceder a la cámara del teléfono (para escanear QRs), el GPS (para centrar el mapa en la ubicación del usuario) y permisos de notificaciones (para avisos importantes sobre el clima o espectáculos próximos).
+
+c) Interfaces de software: Conexión con la API de Google Maps para cargar la cartografía de Bahía Blanca.
+
+d) Interfaces de las comunicaciones: Optimización de carga de imágenes para consumir pocos datos móviles, ya que se usará mucho en plazas y parques.
  
-5. Otros requerimientos no funcionales
-- Requerimientos de desempeño: El mapa y el buscador de feriantes deben responder en menos de 2 segundos.
-- Requerimientos de seguridad: Las contraseñas de los usuarios deben estar encriptadas en la base de datos y la conexión debe ser segura.
-- Requerimientos de estabilidad y consistencia: El sistema de asignación de puestos debe asegurar que nunca se le asigne el mismo lugar a dos feriantes al mismo tiempo por errores de conexión (operaciones atómicas).
-- Atributos de calidad: Interfaz simple e intuitiva para que cualquier persona pueda anotarse a una feria sin necesidad de un tutorial extenso.
- 
+ 5. Otros requerimientos no funcionales
+Desempeño: Tanto el mapa interactivo como el motor de búsqueda deben ofrecer respuestas ágiles, operando en un tiempo menor a 2 segundos.
+Seguridad: El sistema garantizará la protección de la información mediante el cifrado de contraseñas y conexiones seguras.
+Estabilidad y Consistencia: Se implementarán operaciones atómicas en la gestión de la fila de espera para prevenir y evitar la doble asignación de un mismo puesto ferial.
+Usabilidad: La interfaz mantendrá un diseño simple e intuitivo que no requiera tutoriales extensos, incorporando además un buen contraste visual para facilitar su uso al aire libre bajo la luz solar.
+Compatibilidad: La solución estará diseñada para funcionar de manera fluida en los principales navegadores web estándar (tales como Chrome, Firefox, Safari y Edge) y contar con soporte adaptado para dispositivos móviles Android e iOS.
+Portabilidad y Datos Móviles: Se optimizará la carga de imágenes y recursos para asegurar un bajo consumo de datos móviles, considerando el uso frecuente de la plataforma en plazas y parques públicos.
+Disponibilidad: El sistema deberá mantenerse operativo y accesible de forma permanente, priorizando su disponibilidad en los horarios habituales de feria (idealmente 24 horas).
+Documentación: Se incorporará soporte de ayuda en línea y una guía visual orientada a facilitar el primer ingreso y registro de los feriantes.
+
 6. Otros requerimientos (Técnicas de Exploración)
 
  
