@@ -134,3 +134,5 @@ Personal interno de la Municipalidad que mira los gráficos del sistema para ent
 *Sergio Torres*
 *Facundo Martinez*
 *Nahuel Cisneros*
+*Lourde De Andres*
+
