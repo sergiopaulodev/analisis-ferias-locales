@@ -5,7 +5,7 @@ PROYECTO
 ## Plataforma Integral de Gestión y Visibilización de Ferias Locales en Bahía Blanca
 
 **Analistas de requerimientos**: Murano Manuel, Torres Sergio, Martinez Facundo, Lourdes De Andres, Cisneros Nahuel . 
-
+--------------------------
 Indice
    1. Introducción	
    2. Descripción general	
@@ -14,7 +14,7 @@ Indice
    5. Otros requerimientos no funcionales	
    6. Apéndices	
    7. Anexo
-
+--------------------------
  
 1. Introducción
    
