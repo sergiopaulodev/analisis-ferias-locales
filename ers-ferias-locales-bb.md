@@ -6,6 +6,15 @@ PROYECTO
 
 **Analistas de requerimientos**: Murano Manuel, Torres Sergio, Martinez Facundo, Lourdes De Andres, Cisneros Nahuel . 
 
+Indice
+   1. Introducción	
+   2. Descripción general	
+   3. Características del sistema	
+   4. Requerimientos de la interfaz externa	
+   5. Otros requerimientos no funcionales	
+   6. Apéndices	
+   7. Anexo
+
  
 1. Introducción
    
