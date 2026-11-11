@@ -119,10 +119,10 @@ Documentación: Se incorporará soporte de ayuda en línea y una guía visual or
 
 ### Matriz de trazabilidad
 
-| Código | Requerimiento Funcional | Caso de Uso Relacionado |
-| :--- | :--- | :--- | :--- |
-| **RF1** | Registrar usuario según su rol (ciudadano, feriante, organizador, inspector, administrador). |CU1: Registrar Usuario |
-| **RF2** | Iniciar sesión de forma segura, con usuario y contraseña predefinida. || CU2: Iniciar Sesión |
+| Código | Requerimiento Funcional | Caso de Uso Relacionado. |
+| :--- | :--- | :--- |
+| **(RF1)** | Registrar usuario según su rol (ciudadano, feriante, organizador, inspector, administrador). |CU1: Registrar Usuario |
+| **(RF2)** | Iniciar sesión de forma segura, con usuario y contraseña predefinida. || CU2: Iniciar Sesión |
 | **(RF3)** | Permitir editar perfil público del feriante (fotos, rubro, redes sociales). || CU3: Editar Perfil de Feriante |
 | **(RF4)** | Recuperar contraseña. | CU4: Recuperar Contraseña |
 | **(RF5)** | Consultar mapa interactivo con ferias activas en tiempo real. | CU5: Visualizar Mapa de Ferias  
@@ -137,13 +137,13 @@ Documentación: Se incorporará soporte de ayuda en línea y una guía visual or
 | **(RF14)** | Escanear código QR de libreta sanitaria o permiso. | CU14: Escanear Código QR |
 | **(RF15)** | Verificar vigencia de carnet de manipulador de alimentos. | CU15: Verificar Carnet Sanitario |
 | **(RF16)** | Registrar resultado de inspección. | CU16: Actas de Inspección |
-| **(RF17)** | Generar estadísticas de concurrencia por feria. | Módulo de Business Intelligence Municipal | CU17: Reportes de Concurrencia |
-| **(RF18)** | Visualizar los rubros con mayor crecimiento | CU18: Análisis de Rubros |
-| **(RF19)** | Identificar nivel de regularización de feriantes. | Módulo de Business Intelligence Municipal | CU19: Control de Regularidad |
-| **(RF20)** | Exportar reportes para la Municipalidad | CU20: Exportación de Datos |
+| **(RF17)** | Generar estadísticas de concurrencia por feria. | CU17: Reportes de Concurrencia |
+| **(RF18)** | Visualizar los rubros con mayor crecimiento. | CU18: Análisis de Rubros |
+| **(RF19)** | Identificar nivel de regularización de feriantes. | CU19: Control de Regularidad |
+| **(RF20)** | Exportar reportes para la Municipalidad. | CU20: Exportación de Datos |
 | **(RF21)** | Gestión y programación de ferias | CU21: Gestionar Ferias |
-| **(RF22)** | Envío de notificaciones automáticas y alertas | CU22:Enviar Notificaciones del Sistema |
-| **(RF23)** | Gestión de reclamos, consultas o soporte | CU23: Gestionar Reclamos y Soporte |
+| **(RF22)** | Envío de notificaciones automáticas y alertas. | CU22:Enviar Notificaciones del Sistema |
+| **(RF23)** | Gestión de reclamos, consultas o soporte. | CU23: Gestionar Reclamos y Soporte |
 --------------------------
 
 ## 7. Otros requerimientos (Técnicas de Exploración)
