@@ -155,19 +155,19 @@ Documentación: Se incorporará soporte de ayuda en línea y una guía visual or
 Glosario de Actores 
 
 
-EL<ins>vecino</ins> 
+EL <ins>vecino</ins> 
 Es el que va a entrar en el  sistema para ver el mapa, buscar qué ferias están abiertas el fin de semana, mirar los horarios y buscar qué stands hay disponibles.
 
-EL<ins>Feriante</ins>
+EL <ins>feriante</ins>
 El emprendedor o productor que usa la plataforma para ofrecer sus cosas. Puede armar su catálogo, pedir lugar en las ferias, avisar si no va a ir y seguir su turno en la lista de espera.
 
-EL<ins>Organizador Independiente</ins>
+EL <ins>organizador Independiente</ins>
 Puede ser una sociedad de fomento, una cooperativa o un grupo barrial que coordina ferias que no son del Municipio. Usan el sistema para filtrar quién entra, ver los rubros y habilitar espacios.
 
-EL<ins>Inspector Municipal</ins>
+EL <ins>inspector Municipal</ins>
 El empleado de áreas como Bromatología que está en la calle y usa su celular para escanear las credenciales de los puestos y fiscalizar que todo esté en regla.
 
-EL <ins>Analista BI / Administrador</ins>
+EL <ins>analista BI / administrador</ins>
 Personal interno de la Municipalidad que mira los gráficos del sistema para entender cómo se está moviendo el sector de las ferias y tomar decisiones.
 
  
