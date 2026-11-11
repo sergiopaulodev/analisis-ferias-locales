@@ -121,26 +121,26 @@ Documentación: Se incorporará soporte de ayuda en línea y una guía visual or
 
 | Código | Requerimiento Funcional | Módulo Asociado | Caso de Uso Relacionado |
 | :--- | :--- | :--- | :--- |
-| **(RF1)** | Registrar usuario según su rol (ciudadano, feriante, organizador, inspector, administrador). | Módulo de usuarios y autenticación | CU-01: Registrar Usuario |
-| **(RF2)** | Iniciar sesión de forma segura, con usuario y contraseña predefinida. | Módulo de usuarios y autenticación | CU-02: Iniciar Sesión |
-| **(RF3)** | Permitir editar perfil público del feriante (fotos, rubro, redes sociales). | Módulo de usuarios y autenticación | CU-03: Editar Perfil de Feriante |
-| **(RF4)** | Recuperar contraseña. | Módulo de usuarios y autenticación | CU-04: Recuperar Contraseña |
-| **(RF5)** | Consultar mapa interactivo con ferias activas en tiempo real. | Módulo de visibilización ciudadana | CU-05: Visualizar Mapa de Ferias 
-| **(RF6)** | Buscar ferias por tipo de producto o rubro. | Módulo de visibilización ciudadana | CU-06: Filtrar Búsqueda de Ferias |
-| **(RF7)** | Consultar ficha de feria (horarios, stands, feriantes participantes). | Módulo de visibilización ciudadana | CU-07: Consultar Ficha de Feria |
-| **(RF-8)** | Enviar mensaje espontáneo a un feriante. | Módulo de visibilización ciudadana | CU-08: Enviar Mensaje a Feriante |
-| **(RF9)** | Postularse a una feria. | Módulo de asignación de puestos y fila de espera | CU-09: Postularse a Feria |
-| **(RF10)** | Ingresar a lista de espera cuando no hay cupo. | Módulo de asignación de puestos y fila de espera | CU-10: Ingresar a Lista de Espera |
-| **(RF11)** | Notificar automáticamente al siguiente de la lista ante una baja. | Módulo de asignación de puestos y fila de espera | CU-11: Reasignar Puesto Automáticamente |
-| **(RF12)** | Confirmar o cancelar asistencia a una feria. | Módulo de asignación de puestos y fila de espera | CU-12: Confirmar Asistencia - Cancelar Asistencia |
-| **(RF13)** | Habilitar o rechazar puesto (organizador). | Módulo de asignación de puestos y fila de espera | CU-13: Habilitar Puesto |
-| **(RF14)** | Escanear código QR de libreta sanitaria o permiso. | Módulo de fiscalización y bromatología | CU-14: Escanear Código QR |
-| **(RF15)** | Verificar vigencia de carnet de manipulador de alimentos. | Módulo de fiscalización y bromatología | CU-15: Verificar Carnet Sanitario |
-| **(RF16)** | Registrar resultado de inspección. | Módulo de fiscalización y bromatología | CU-16: Actas de Inspección |
-| **(RF17)** | Generar estadísticas de concurrencia por feria. | Módulo de Business Intelligence Municipal | CU-17: Reportes de Concurrencia |
-| **(RF18)** | Visualizar los rubros con mayor crecimiento. | Módulo de Business Intelligence Municipal | CU-18: Análisis de Rubros |
-| **(RF19)** | Identificar nivel de regularización de feriantes. | Módulo de Business Intelligence Municipal | CU-19: Control de Regularidad |
-| **(RF20)** | Exportar reportes para la Municipalidad. | Módulo de Business Intelligence Municipal | CU-20: Exportación de Datos |
+| **(RF1)** | Registrar usuario según su rol (ciudadano, feriante, organizador, inspector, administrador). | Módulo de usuarios y autenticación | CU1: Registrar Usuario |
+| **(RF2)** | Iniciar sesión de forma segura, con usuario y contraseña predefinida. | Módulo de usuarios y autenticación | CU2: Iniciar Sesión |
+| **(RF3)** | Permitir editar perfil público del feriante (fotos, rubro, redes sociales). | Módulo de usuarios y autenticación | CU3: Editar Perfil de Feriante |
+| **(RF4)** | Recuperar contraseña. | Módulo de usuarios y autenticación | CU4: Recuperar Contraseña |
+| **(RF5)** | Consultar mapa interactivo con ferias activas en tiempo real. | Módulo de visibilización ciudadana | CU5: Visualizar Mapa de Ferias  
+| **(RF6)** | Buscar ferias por tipo de producto o rubro. | Módulo de visibilización ciudadana | CU6: Filtrar Búsqueda de Ferias |
+| **(RF7)** | Consultar ficha de feria (horarios, stands, feriantes participantes). | Módulo de visibilización ciudadana | CU7: Consultar Ficha de Feria |
+| **(RF-8)** | Enviar mensaje espontáneo a un feriante. | Módulo de visibilización ciudadana | CU8: Enviar Mensaje a Feriante |
+| **(RF9)** | Postularse a una feria. | Módulo de asignación de puestos y fila de espera | CU9: Postularse a Feria |
+| **(RF10)** | Ingresar a lista de espera cuando no hay cupo. | Módulo de asignación de puestos y fila de espera | CU10: Ingresar a Lista de Espera |
+| **(RF11)** | Notificar automáticamente al siguiente de la lista ante una baja. | Módulo de asignación de puestos y fila de espera | CU11: Reasignar Puesto Automáticamente |
+| **(RF12)** | Confirmar o cancelar asistencia a una feria. | Módulo de asignación de puestos y fila de espera | CU12: Confirmar Asistencia - Cancelar Asistencia |
+| **(RF13)** | Habilitar o rechazar puesto (organizador). | Módulo de asignación de puestos y fila de espera | CU13: Habilitar Puesto |
+| **(RF14)** | Escanear código QR de libreta sanitaria o permiso. | Módulo de fiscalización y bromatología | CU14: Escanear Código QR |
+| **(RF15)** | Verificar vigencia de carnet de manipulador de alimentos. | Módulo de fiscalización y bromatología | CU15: Verificar Carnet Sanitario |
+| **(RF16)** | Registrar resultado de inspección. | Módulo de fiscalización y bromatología | CU16: Actas de Inspección |
+| **(RF17)** | Generar estadísticas de concurrencia por feria. | Módulo de Business Intelligence Municipal | CU17: Reportes de Concurrencia |
+| **(RF18)** | Visualizar los rubros con mayor crecimiento. | Módulo de Business Intelligence Municipal | CU18: Análisis de Rubros |
+| **(RF19)** | Identificar nivel de regularización de feriantes. | Módulo de Business Intelligence Municipal | CU19: Control de Regularidad |
+| **(RF20)** | Exportar reportes para la Municipalidad. | Módulo de Business Intelligence Municipal | CU20: Exportación de Datos |
 
 --------------------------
 
@@ -149,11 +149,12 @@ Documentación: Se incorporará soporte de ayuda en línea y una guía visual or
  
  
 ## 8. Apéndices
-*Glosario de Actores*
-*Actor*
-*Descripción*
-*Ciudadano*
-El vecino entra al sistema para ver el mapa, buscar qué ferias están abiertas el fin de semana, mirar los horarios y buscar qué stands hay disponibles.
+*Glosario de Actores
+*Actor
+*Descripción
+*Ciudadano
+
+El <ins>vecino</ins> entra al sistema para ver el mapa, buscar qué ferias están abiertas el fin de semana, mirar los horarios y buscar qué stands hay disponibles.
 Feriante
 El emprendedor o productor que usa la plataforma para ofrecer sus cosas. Puede armar su catálogo, pedir lugar en las ferias, avisar si no va a ir y seguir su turno en la lista de espera.
 Organizador Independiente
