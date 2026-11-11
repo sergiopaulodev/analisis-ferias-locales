@@ -121,8 +121,8 @@ Documentación: Se incorporará soporte de ayuda en línea y una guía visual or
 
 | Código | Requerimiento Funcional | Caso de Uso Relacionado |
 | :--- | :--- | :--- | :--- |
-| **(RF1)** | Registrar usuario según su rol (ciudadano, feriante, organizador, inspector, administrador). || CU1: Registrar Usuario |
-| **(RF2)** | Iniciar sesión de forma segura, con usuario y contraseña predefinida. || CU2: Iniciar Sesión |
+| **RF1** | Registrar usuario según su rol (ciudadano, feriante, organizador, inspector, administrador). |CU1: Registrar Usuario |
+| **RF2** | Iniciar sesión de forma segura, con usuario y contraseña predefinida. || CU2: Iniciar Sesión |
 | **(RF3)** | Permitir editar perfil público del feriante (fotos, rubro, redes sociales). || CU3: Editar Perfil de Feriante |
 | **(RF4)** | Recuperar contraseña. | CU4: Recuperar Contraseña |
 | **(RF5)** | Consultar mapa interactivo con ferias activas en tiempo real. | CU5: Visualizar Mapa de Ferias  
