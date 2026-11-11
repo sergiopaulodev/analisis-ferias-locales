@@ -121,11 +121,11 @@ Documentación: Se incorporará soporte de ayuda en línea y una guía visual or
 
 | Código | Requerimiento Funcional | Módulo Asociado | Caso de Uso Relacionado |
 | :--- | :--- | :--- | :--- |
-| **RF-01** | Registrar usuario según su rol (ciudadano, feriante, organizador, inspector, administrador). | Módulo de usuarios y autenticación | CU-01: Registrar Usuario |
-| **RF-02** | Iniciar sesión de forma segura, con usuario y contraseña predefinida. | Módulo de usuarios y autenticación | CU-02: Iniciar Sesión |
-| **RF-03** | Permitir editar perfil público del feriante (fotos, rubro, redes sociales). | Módulo de usuarios y autenticación | CU-03: Editar Perfil de Feriante |
-| **RF-04** | Recuperar contraseña. | Módulo de usuarios y autenticación | CU-04: Recuperar Contraseña |
-| **RF-05** | Consultar mapa interactivo con ferias activas en tiempo real. | Módulo de visibilización ciudadana | CU-05: Visualizar Mapa de Ferias |
+| **(RF1)** | Registrar usuario según su rol (ciudadano, feriante, organizador, inspector, administrador). | Módulo de usuarios y autenticación | CU-01: Registrar Usuario |
+| **(RF2)** | Iniciar sesión de forma segura, con usuario y contraseña predefinida. | Módulo de usuarios y autenticación | CU-02: Iniciar Sesión |
+| **(RF3)** | Permitir editar perfil público del feriante (fotos, rubro, redes sociales). | Módulo de usuarios y autenticación | CU-03: Editar Perfil de Feriante |
+| **(RF4)** | Recuperar contraseña. | Módulo de usuarios y autenticación | CU-04: Recuperar Contraseña |
+| **(RF5)** | Consultar mapa interactivo con ferias activas en tiempo real. | Módulo de visibilización ciudadana | CU-05: Visualizar Mapa de Ferias |
 | **RF-06** | Buscar ferias por tipo de producto o rubro. | Módulo de visibilización ciudadana | CU-06: Filtrar Búsqueda de Ferias |
 | **RF-07** | Consultar ficha de feria (horarios, stands, feriantes participantes). | Módulo de visibilización ciudadana | CU-07: Consultar Ficha de Feria |
 | **RF-08** | Enviar mensaje espontáneo a un feriante. | Módulo de visibilización ciudadana | CU-08: Enviar Mensaje a Feriante |
