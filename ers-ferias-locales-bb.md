@@ -128,7 +128,7 @@ Documentación: Se incorporará soporte de ayuda en línea y una guía visual or
 | **(RF5)** | Consultar mapa interactivo con ferias activas en tiempo real. | CU5: Visualizar Mapa de Ferias  
 | **(RF6)** | Buscar ferias por tipo de producto o rubro. | CU6: Filtrar Búsqueda de Ferias |
 | **(RF7)** | Consultar ficha de feria (horarios, stands, feriantes participantes). | CU7: Consultar Ficha de Feria |
-| **(RF-8)** | Enviar mensaje espontáneo a un feriante. | CU8: Enviar Mensaje a Feriante |
+| **(RF8)** | Enviar mensaje espontáneo a un feriante. | CU8: Enviar Mensaje a Feriante |
 | **(RF9)** | Postularse a una feria. | CU9: Postularse a Feria |
 | **(RF10)** | Ingresar a lista de espera cuando no hay cupo. | CU10: Ingresar a Lista de Espera |
 | **(RF11)** | Notificar automáticamente al siguiente de la lista ante una baja. | CU11: Reasignar Puesto Automáticamente |
@@ -151,10 +151,11 @@ Documentación: Se incorporará soporte de ayuda en línea y una guía visual or
  
  
 ## 8. Apéndices
-*Glosario de Actores
-*Actor
-*Descripción
-*Ciudadano
+
+Glosario de Actores
+Actor
+Descripción
+Ciudadano
 
 EL<ins>vecino</ins> 
 Es el que va a entrar en el  sistema para ver el mapa, buscar qué ferias están abiertas el fin de semana, mirar los horarios y buscar qué stands hay disponibles.
