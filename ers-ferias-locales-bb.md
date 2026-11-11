@@ -152,10 +152,8 @@ Documentación: Se incorporará soporte de ayuda en línea y una guía visual or
  
 ## 8. Apéndices
 
-Glosario de Actores
-Actor
-Descripción
-Ciudadano
+Glosario de Actores 
+
 
 EL<ins>vecino</ins> 
 Es el que va a entrar en el  sistema para ver el mapa, buscar qué ferias están abiertas el fin de semana, mirar los horarios y buscar qué stands hay disponibles.
