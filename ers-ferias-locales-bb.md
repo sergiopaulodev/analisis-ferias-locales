@@ -147,20 +147,7 @@ Documentación: Se incorporará soporte de ayuda en línea y una guía visual or
 --------------------------
 
 ## 7. Otros requerimientos (Técnicas de Exploración)
-Glosario de Actores
-Actor
-Descripción
-Ciudadano
-El vecino entra al sistema para ver el mapa, buscar qué ferias están abiertas el fin de semana, mirar los horarios y buscar qué stands hay disponibles.
-Feriante
-El emprendedor o productor que usa la plataforma para ofrecer sus productos. Puede armar su catálogo, pedir lugar en las ferias, avisar si no va a ir y ceder su turno en la lista de espera.
-Organizador Independiente
-Puede ser una sociedad de fomento, una cooperativa o un grupo barrial que coordina ferias que no son del municipio. Usan el sistema para filtrar quién entra, ver los rubros y habilitar espacios.
-Inspector Municipal
-El empleado de áreas como Bromatología que está en la calle y usa su celular para escanear las credenciales de los puestos y fiscalizar que todo esté en regla.
-También verificar que todas las habilitaciones solicitadas, estén al día
-Analista BI / Administrador
-Personal interno de la Municipalidad que mira los gráficos del sistema para entender cómo se está moviendo el sector de las ferias y tomar decisiones.
+ 
 
  
  
