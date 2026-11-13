@@ -197,21 +197,30 @@ ENTREVISTA CON FERIANTES:
 
 HABLAMOS CON ARTESANOS QUE SUELEN ESTAR EN LA PLAZA RIVADAVIA. 
 ELLOS NOS CONTARON QUE LOS FERIANTES NO PUEDEN ACCEDER A LA PLAZA SIN AUTORIZACIÓN POR LA COMISIÓN DE FERIANTES. 
-ELLOS A PESAR DE SER EXPERTOS EN EL ÁMBITO ARTESANOS, TUVIERON QUE GANARSE SU LUGAR. 
+ELLOS A PESAR DE SER EXPERTOS EN EL ÁMBITO ARTESANOS, TUVIERON QUE GANARSE SU LUGAR, HABIENDO TANTO ESPACIO DISPONIBLE. 
 CONOCÍAN UNA APP QUE SE USA EN GRANDES CIUDADES COMO BUENOS AIRES, DONDE APARECEN LOS PUNTOS DE FERIAS Y QUIEN SE VA A PRESENTAR A OFRECER SUS PRODUCTOS. 
 
+
 ¿CÓMO GESTIONAN EL STOCK? 
+
 -El stock se genera durante las semanas previas a la feria, no es solo trabajo el fin de semana sino que también se trabaja produciendo.
 
-¿CÓMO ACEPTAN LOS PAGOS? 
+¿CÓMO ACEPTAN LOS PAGOS?
+
 -Aceptamos pago por efectivo o transferencias
 
 ¿QUÉ ES LO QUE MÁS SE LES COMPLICA AL ORGANIZARSE PARA LA FERIA? 
--No existen complicaciones, ya que en Bahía la asistencia siempre es buena. Es complicado mantener el stock o poder satisfacer a todos nuestros clientes, pero como  también manejamos ventas por instagram, aceptamos nuevos desafíos o pedidos por encargo.
 
-¿QUÉ LES PARECE UNA APP COMO LA QUE HABLAMOS? 
--La app nos sirve mucho ya que podemos subir fotos de nuestros trabajos, podemos interactuar con las personas, podemos poner nuestras redes sociales y número de whatsapp. Además creemos que son nuevas oportunidades y motivación para los feriantes de la ciudad. También es bueno para las personas que les gusto nuestro trabajo o en algún momento no pudieron realizar la compra en la feria y nos quieren volver a encontrar en alguna nueva feria. 
+-No existen complicaciones, ya que en Bahía la asistencia siempre es buena, entonces solo queda producir y tener el medio disponible para venir y traer la mercancía. Es complicado mantener el stock o poder satisfacer a todos nuestros clientes,así que  también manejamos ventas por instagram, aceptamos pedidos por encargo y  nuevos desafíos. 
 
+¿QUÉ LES PARECE UNA APP COMO LA QUE HABLAMOS?
+
+-La app nos parece una excelente idea, nos serviría mucho ya que podríamos subir fotos de nuestros trabajos, podríamos interactuar con las personas,  poner nuestras redes sociales y número de contacto o whatsapp. Además creemos que son nuevas oportunidades y motivación para que los feriantes de la ciudad vengan y se animen a hacer crecer a la comunidad.Del lado del cliente esta bueno por si les gusto alguno de nuestros trabajos y no pudieron realizar la compra en la feria, nos puedan volver a encontrar en alguna nueva feria. 
+
+
+¿QUE LOS MOTIVA A SER FERIANTES?-
+
+Lo hacemos porque es lo que nos gusta y nos permite tener la vida que tenemos (viajan recorriendo países en combi).
  
 
 
