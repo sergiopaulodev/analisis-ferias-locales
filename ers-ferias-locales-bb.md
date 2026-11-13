@@ -250,8 +250,9 @@ FUNCIONALIDAD DEL SISTEMA
 **Autenticación**: proceso de verificar la identidad de un usuario (usuario y contraseña) antes de darle acceso.
 
 **Módulo**: agrupación de funciones del sistema relacionadas entre sí.
- 
 
+ SEGURIDAD Y CALIDAD 
+**Cifrado de Contraseñas**: transformación de las contraseñas en datos ilegibles para que puedan leerse aunque se acceda a la de datos. 
 
  
 
