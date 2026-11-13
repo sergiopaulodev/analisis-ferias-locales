@@ -159,12 +159,6 @@ Documentación: Se incorporará soporte de ayuda en línea y una guía visual or
 | **Disponibilidad** | Sistema operativo y accesible de forma permanente, priorizando los horarios habituales de feria (idealmente 24 horas). |
 | **Documentación** | Ayuda en línea y guía visual para facilitar el primer ingreso y registro de los feriantes. |
 
-
-
- 
- 
-## 8. Apéndices
-
 Glosario de Actores 
 
 
@@ -182,6 +176,12 @@ El empleado de áreas como Bromatología que está en la calle y usa su celular 
 
 EL <ins>analista BI / administrador</ins>
 Personal interno de la Municipalidad que mira los gráficos del sistema para entender cómo se está moviendo el sector de las ferias y tomar decisiones.
+
+
+ 
+ 
+## 8. 
+
 
  
 
