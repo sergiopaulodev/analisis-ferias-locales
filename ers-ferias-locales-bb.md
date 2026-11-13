@@ -207,6 +207,7 @@ CONOCÍAN UNA APP QUE SE USA EN GRANDES CIUDADES COMO BUENOS AIRES, DONDE APAREC
 ## 10.  Lista de conceptos
 
 TECNOLOGÍA Y PLATAFORMA
+
 **API**: conjunto de reglas y protocolos que permite que dos programas se comuniquen e intercambien datos sin conocer el funcionamiento interno del otro (ej.: la API de Google Maps).
 Plataforma web y móvil / visualización adaptada: sistema accesible desde navegador, cuya interfaz se ajusta al tamaño de pantalla de celulares Android e iOS.
 Tiempo real: actualización de la información en el momento en que cambia, sin recargas manuales ni cargas diferidas.
@@ -215,6 +216,7 @@ Notificaciones: avisos automáticos enviados al dispositivo (clima, espectáculo
 Código QR: código bidimensional que guarda información (un enlace o identificador) y se lee con la cámara del celular; en el sistema valida libretas sanitarias y permisos.
 
 FUNCIONALIDAD DEL SISTEMA
+
 **Mapa interactivo**: vista cartográfica de la ciudad donde el usuario se desplaza, amplía y consulta información de cada feria.
 **Pin**: marcador sobre el mapa que indica la ubicación de una feria abierta.
 **Fila de espera (lista de espera virtual)**: cola ordenada de feriantes que se postularon a una feria sin cupo; se actualiza automáticamente y avisa al siguiente cuando se libera un puesto.
