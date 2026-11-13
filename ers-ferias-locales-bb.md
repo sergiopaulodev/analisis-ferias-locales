@@ -250,7 +250,44 @@ FUNCIONALIDAD DEL SISTEMA
 **Módulo**: agrupación de funciones del sistema relacionadas entre sí.
 
  SEGURIDAD Y CALIDAD 
+ 
 **Cifrado de Contraseñas**: transformación de las contraseñas en datos ilegibles para que puedan leerse aunque se acceda a la de datos. 
+
+**HTTPS**: protocolo de comunicación que cifra los datos entre el dispositivo y el servidor.
+
+**Operación atómica**: operación que se ejecuta completa o no se ejecuta, y que evita que dos feriantes reciban el mismo puesto.
+
+**Doble asignación**: error en el que un mismo puesto queda asignado a dos feriantes.
+
+**Ley 25.326**: ley nacional de Protección de Datos Personales.
+
+DOMINIO FERIAL Y ADMINISTRATIVO
+
+**Feria fija / itinerante**: la fija tiene ubicación estable; la itinerante cambia de lugar o fecha
+
+**Rubro**: categoría de producto o actividad del puesto (artesanías, alimentos, etc.).
+
+**Fiscalización**: control del cumplimiento de normas en los puestos.
+
+**Bromatología**: área que controla la calidad e higiene de los alimentos.
+
+**Libreta sanitaria / carnet de manipulador de alimentos**: credenciales que habilitan a manipular alimentos.
+
+**Acta de inspección**: registro formal del resultado de una inspección.
+
+**Habilitación / regularización**: cumplimiento de los requisitos para operar legalmente.
+
+**Mipymes**: micro, pequeñas y medianas empresas.
+
+**Ordenanza 11.947**: norma municipal (2003) que regula las ferias en Bahía Blanca.
+
+INGENIERIA DE REQUERIMIENTOS 
+
+**Requerimiento funcional / no funcional**: el primero describe qué hace el sistema; el segundo, qué tan bien lo hace (desempeño, seguridad, usabilidad).
+
+**Caso de uso**: descripción de una interacción entre un actor y el sistema para lograr un objetivo.
+
+**Trazabilidad**: vínculo que permite seguir cada requerimiento hasta su módulo y su caso de uso.
 
  
 **NOTAS**: 
