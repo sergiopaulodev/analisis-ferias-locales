@@ -8,4 +8,4 @@
 
 **Diagrama de conteto (General)**
 
-<img width="686" height="391" alt="image" src="https://github.com/user-attachments/assets/1bea68c7-b730-411d-a2b8-72f2bf16a1dd" />
+<img width="1376" height="784" alt="Gemini_Generated_Image_ifk0ctifk0ctifk0" src="https://github.com/user-attachments/assets/b293c7b9-fd02-4395-a243-e632251737ec" />
