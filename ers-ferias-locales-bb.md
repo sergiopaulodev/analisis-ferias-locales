@@ -192,10 +192,17 @@ ELLOS NOS CONTARON QUE LOS FERIANTES NO PUEDEN ACCEDER A LA PLAZA SIN AUTORIZACI
 ELLOS A PESAR DE SER EXPERTOS EN EL ÁMBITO ARTESANOS, TUVIERON QUE GANARSE SU LUGAR. 
 CONOCÍAN UNA APP QUE SE USA EN GRANDES CIUDADES COMO BUENOS AIRES, DONDE APARECEN LOS PUNTOS DE FERIAS Y QUIEN SE VA A PRESENTAR A OFRECER SUS PRODUCTOS. 
 
-¿ CÓMO GESTIONAN EL STOCK ? - El stock se genera durante las semanas previas a la feria, no es solo trabajo el fin de semana sino que también se trabaja produciendo .
-¿CÓMO ACEPTAN LOS PAGOS? -Aceptamos pago por efectivo o transferencias
-¿QUÉ ES LO QUE MÁS SE LES COMPLICA AL ORGANIZARSE PARA LA FERIA? - No existen complicaciones, ya que en Bahía la asistencia siempre es buena. Es complicado mantener el stock o poder satisfacer a todos nuestros clientes, pero como  también manejamos ventas por instagram, aceptamos nuevos desafíos o pedidos por encargo.
-¿ QUÉ LES PARECE UNA APP COMO LA QUE HABLAMOS? - La app nos sirve mucho ya que podemos subir fotos de nuestros trabajos, podemos interactuar con las personas, podemos poner nuestras redes sociales y número de whatsapp. Además creemos que son nuevas oportunidades y motivación para los feriantes de la ciudad. También es bueno para las personas que les gusto nuestro trabajo o en algún momento no pudieron realizar la compra en la feria y nos quieren volver a encontrar en alguna nueva feria. 
+¿CÓMO GESTIONAN EL STOCK? 
+-El stock se genera durante las semanas previas a la feria, no es solo trabajo el fin de semana sino que también se trabaja produciendo.
+
+¿CÓMO ACEPTAN LOS PAGOS? 
+-Aceptamos pago por efectivo o transferencias
+
+¿QUÉ ES LO QUE MÁS SE LES COMPLICA AL ORGANIZARSE PARA LA FERIA? 
+-No existen complicaciones, ya que en Bahía la asistencia siempre es buena. Es complicado mantener el stock o poder satisfacer a todos nuestros clientes, pero como  también manejamos ventas por instagram, aceptamos nuevos desafíos o pedidos por encargo.
+
+¿QUÉ LES PARECE UNA APP COMO LA QUE HABLAMOS? 
+-La app nos sirve mucho ya que podemos subir fotos de nuestros trabajos, podemos interactuar con las personas, podemos poner nuestras redes sociales y número de whatsapp. Además creemos que son nuevas oportunidades y motivación para los feriantes de la ciudad. También es bueno para las personas que les gusto nuestro trabajo o en algún momento no pudieron realizar la compra en la feria y nos quieren volver a encontrar en alguna nueva feria. 
 
  
 
@@ -211,19 +218,28 @@ TECNOLOGÍA Y PLATAFORMA
 **API**: conjunto de reglas y protocolos que permite que dos programas se comuniquen e intercambien datos sin conocer el funcionamiento interno del otro (ej.: la API de Google Maps).
 Plataforma web y móvil / visualización adaptada: sistema accesible desde navegador, cuya interfaz se ajusta al tamaño de pantalla de celulares Android e iOS.
 Tiempo real: actualización de la información en el momento en que cambia, sin recargas manuales ni cargas diferidas.
+
 **GPS**: sistema de geolocalización del dispositivo, usado para centrar el mapa en la posición del usuario.
 Notificaciones: avisos automáticos enviados al dispositivo (clima, espectáculos, bajas en la fila de espera).
-Código QR: código bidimensional que guarda información (un enlace o identificador) y se lee con la cámara del celular; en el sistema valida libretas sanitarias y permisos.
+
+**Código QR**: código bidimensional que guarda información (un enlace o identificador) y se lee con la cámara del celular; en el sistema valida libretas sanitarias y permisos.
 
 FUNCIONALIDAD DEL SISTEMA
 
 **Mapa interactivo**: vista cartográfica de la ciudad donde el usuario se desplaza, amplía y consulta información de cada feria.
+
 **Pin**: marcador sobre el mapa que indica la ubicación de una feria abierta.
+
 **Fila de espera (lista de espera virtual)**: cola ordenada de feriantes que se postularon a una feria sin cupo; se actualiza automáticamente y avisa al siguiente cuando se libera un puesto.
+
 **Postulación**: solicitud de un feriante para ocupar un puesto en una feria.
+
 **Mensajería espontánea**: mensaje rápido de un ciudadano a un feriante, sin conversación previa.
+
 **Perfil / rol**: conjunto de datos y permisos asociados a cada tipo de usuario.
+
 **Autenticación**: proceso de verificar la identidad de un usuario (usuario y contraseña) antes de darle acceso.
+
 **Módulo**: agrupación de funciones del sistema relacionadas entre sí.
  
 
