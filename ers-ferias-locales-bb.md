@@ -14,9 +14,7 @@ PROYECTO
    5. Requerimientos de la interfaz externa	
    6. Otros requerimientos no funcionales	
    7. Apéndices	
-   8. Matriz de trazabilidad
-   9. Otros requerimientos (Técnicas de Exploración)
-   10. Lista de conceptos
+   8. Anexos
 --------------------------
  
 ## 1. Introducción
@@ -161,7 +159,7 @@ Agrupamos los requerimientos en 5 módulos principales:
 
 ---
 
-## 8.Matriz de trazabilidad
+## Matriz de trazabilidad
 
 | Código | Requerimiento Funcional | Caso de Uso Relacionado. |
 | :--- | :--- | :--- |
@@ -190,7 +188,7 @@ Agrupamos los requerimientos en 5 módulos principales:
 | **(RF23)** | Gestión de reclamos, consultas o soporte. | CU23: Gestionar Reclamos y Soporte |
 --------------------------
 
-## 9. Otros requerimientos (Técnicas de Exploración)
+## 8. Anexo
 
 Entrevista con los usuarios (documentada)
 
@@ -220,7 +218,7 @@ CONOCÍAN UNA APP QUE SE USA EN GRANDES CIUDADES COMO BUENOS AIRES, DONDE APAREC
 
  
  
-## 10.  Lista de conceptos
+## Lista de conceptos
 
 TECNOLOGÍA Y PLATAFORMA
 
@@ -255,10 +253,6 @@ FUNCIONALIDAD DEL SISTEMA
 **Cifrado de Contraseñas**: transformación de las contraseñas en datos ilegibles para que puedan leerse aunque se acceda a la de datos. 
 
  
-
-
-
-
 **NOTAS**: 
 
 **integrantes**:
