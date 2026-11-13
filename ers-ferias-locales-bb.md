@@ -36,7 +36,7 @@ Alcance del Proyecto: La plataforma busca organizar la información dispersa sob
 ●  Material de la Unidad 2 de Prácticas Profesionalizantes 1.
 
 --------------------------
-## 3. Necesidades del negocio
+## 2. Necesidades del negocio
 
 Situación actual: En la ciudad de Bahía Blanca se identifican 21 ferias de funcionamiento regular (artesanales, de emprendedores, de productores agroecológicos y de economía popular), relevadas en el informe “Primeras aproximaciones al fenómeno de las ferias en Bahía Blanca” (Cantamutto et al., 2023). Dicho relevamiento constató la ausencia de una fuente oficial centralizada que documente su funcionamiento, organización y participantes: solo una minoría de las ferias cuenta con reconocimiento formal por parte de la Municipalidad, mientras que la difusión del resto depende exclusivamente de canales informales (redes sociales de organizadores y feriantes).
 Problemas detectados:
@@ -74,7 +74,7 @@ La difusión oficial por parte de la Municipalidad es escasa y despareja entre f
 
 
 
-## 2. Descripción general
+## 3. Descripción general
    
 a) Perspectiva del producto: Será un sistema web independiente que utilizará APIs* de mapas (Google Maps) para mostrar la información del circuito de ferias de la ciudad en tiempo real.
 
@@ -94,7 +94,7 @@ h) Mensajería espontánea: El usuario le podrá enviar un mensaje rápido al fe
 
 --------------------------
  
-## 3. Características del sistema
+## 4. Características del sistema
 Agrupamos los requerimientos en 5 módulos principales:
 
 ● Módulo de Usuarios y Autenticación: Sistema de registro de usuarios según su rol. Los feriantes arman su perfil, suben fotos, definen su rubro y pueden enlazar sus redes sociales (muy útil para los que usan la feria como punto de entrega o vidriera) y su número de teléfono.
@@ -109,7 +109,7 @@ Agrupamos los requerimientos en 5 módulos principales:
 
 --------------------------
 
-## 4. Requerimientos de la interfaz externa
+## 5. Requerimientos de la interfaz externa
    
  a) Interfaces de usuario: Diseño enfocado en el uso desde el celular, con letras legibles y buen contraste para que se pueda ver bien al  aire libre bajo el sol.
 
@@ -121,7 +121,7 @@ Agrupamos los requerimientos en 5 módulos principales:
 
 --------------------------
  
- ## 5. Otros requerimientos no funcionales
+ ## 6. Otros requerimientos no funcionales
     
 | Categoría | Descripción |
 |-----------|-------------|
@@ -136,7 +136,7 @@ Agrupamos los requerimientos en 5 módulos principales:
 
 --------------------------
 
-## 6. Apéndices
+## 7. Apéndices
 
 ### Glosario de Actores
 
@@ -150,7 +150,7 @@ Agrupamos los requerimientos en 5 módulos principales:
 
 ---
 
-### Matriz de trazabilidad
+## 8.Matriz de trazabilidad
 
 | Código | Requerimiento Funcional | Caso de Uso Relacionado. |
 | :--- | :--- | :--- |
