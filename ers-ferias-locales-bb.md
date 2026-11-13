@@ -14,7 +14,9 @@ PROYECTO
    5. Requerimientos de la interfaz externa	
    6. Otros requerimientos no funcionales	
    7. Apéndices	
-   8. Anexo
+   8. Matriz de trazabilidad
+   9. Otros requerimientos (Técnicas de Exploración)
+   10. Lista de conceptos
 --------------------------
  
 ## 1. Introducción
@@ -179,7 +181,7 @@ Agrupamos los requerimientos en 5 módulos principales:
 | **(RF23)** | Gestión de reclamos, consultas o soporte. | CU23: Gestionar Reclamos y Soporte |
 --------------------------
 
-## 7. Otros requerimientos (Técnicas de Exploración)
+## 9. Otros requerimientos (Técnicas de Exploración)
 
 Entrevista con los usuarios (documentada)
 
@@ -202,7 +204,7 @@ CONOCÍAN UNA APP QUE SE USA EN GRANDES CIUDADES COMO BUENOS AIRES, DONDE APAREC
 
  
  
-## 8. 
+## 10. 
 
 
  
