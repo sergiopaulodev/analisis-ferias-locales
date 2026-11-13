@@ -26,8 +26,7 @@ Propósito: Documentar los requerimientos funcionales y no funcionales necesario
 Convenciones del documento: El documento se estructura según el estándar ERS visto en la cátedra para el ciclo de vida del software, basándonos en las reglas del sector ferial local.
 
 Audiencia del proyecto y sugerencias de lectura: El texto está dirigido a los futuros desarrolladores del sistema, analistas, diseñadores de bases de datos.
-
-## Alcance del Proyecto: La plataforma busca organizar la información dispersa sobre las ferias de la ciudad. Conectará a los ciudadanos (a través de un mapa interactivo), a los feriantes (mediante registro y listas de espera) y a los organizadores/Municipio (para tareas de fiscalización y armado de estadísticas).
+ Alcance del Proyecto: La plataforma busca organizar la información dispersa sobre las ferias de la ciudad. Conectará a los ciudadanos (a través de un mapa interactivo), a los feriantes (mediante registro y listas de espera) y a los organizadores/Municipio (para tareas de fiscalización y armado de estadísticas).
 
 ### Referencias: 
 
@@ -46,26 +45,34 @@ Inexistencia de un canal único de consulta pública sobre oferta ferial (ubicac
 Variabilidad en la ubicación de varias ferias, sin mecanismo de actualización accesible para el usuario final.
 Ausencia de una herramienta municipal de relevamiento estadístico que permita monitorear el crecimiento del sector, los rubros con mayor actividad y el nivel de regularización de los participantes.
 Marco normativo vigente (Ordenanza 11.947/2003) desactualizado respecto de la heterogeneidad actual del sector, con vacíos de control en rubros sensibles (producción alimentaria artesanal: conservas, chacinados).
+
 Alcance del sistema: El sistema deberá dar soporte a los tres actores identificados:
-Ciudadanía: centralización de la oferta ferial en un mapa interactivo, con información de horarios, ubicación, rubros y contacto de feriantes.
-Feriantes y organizadores independientes: visibilización de puestos y formalización de los requisitos de participación.
-Municipio: disponibilidad de una herramienta de Business Intelligence para el monitoreo del sector, la identificación del nivel de regularización y la detección de necesidades de asistencia o capacitación (en coordinación con el área de Bromatología).
+
+1-Ciudadanía: centralización de la oferta ferial en un mapa interactivo, con información de horarios, ubicación, rubros y contacto de feriantes.
+2-Feriantes y organizadores independientes: visibilización de puestos y formalización de los requisitos de participación.
+3-Municipio: disponibilidad de una herramienta de Business Intelligence para el monitoreo del sector, la identificación del nivel de regularización y la detección de necesidades de asistencia o capacitación (en coordinación con el área de Bromatología).
+
 Fuera de alcance: gestión de ferias de carácter esporádico o de escala no representativa, y automatización de trámites de habilitación municipal (continúan gestionando por los canales administrativos vigentes).
+
 Factores críticos de éxito (sin ellos el sistema no cumple su propósito):
 
-  Que el mapa de ferias muestre información real y actualizada (ubicación, horario, vigencia).
-Que la asignación de puestos y la fila de espera nunca dupliquen un mismo lugar entre dos feriantes.
-Que la fiscalización sanitaria pueda verificarse en el momento, en terreno, desde el celular del inspector.
-Que el sistema cumpla la normativa de protección de datos personales (Ley 25.326) y las ordenanzas municipales vigentes.
+-Que el mapa de ferias muestre información real y actualizada (ubicación, horario, vigencia).
+-Que la asignación de puestos y la fila de espera nunca dupliquen un mismo lugar entre dos feriantes.
+-Que la fiscalización sanitaria pueda verificarse en el momento, en terreno, desde el celular del inspector.
+-Que el sistema cumpla la normativa de protección de datos personales (Ley 25.326) y las ordenanzas municipales vigentes.
+
 Puntos fuertes/débiles del sistema actual
-Situación actual: puntos fuertes y débiles
+
+Situación actual: <ins>puntos fuertes y débiles</ins>
 No existe hoy un sistema de información para las ferias de Bahía Blanca; el "sistema actual" es un conjunto de prácticas manuales e informales. Esta caracterización se basa en el informe "Primeras aproximaciones al fenómeno de las ferias en Bahía Blanca" (Cantamutto et al., 2023), que relevó 21 ferias de funcionamiento regular en la ciudad.
+
 Puntos fuertes:
 El sector está consolidado: hay 21 ferias regulares identificadas, varias con larga trayectoria (Feria del Lago desde 2004; Parque Independencia y Encuentro de Pato desde 2008).
 El Municipio ya interviene en la organización de al menos 5 ferias y otorga permisos de funcionamiento en espacio público a otras.
 Existe un marco normativo de base (Ordenanza 11.947/2003) y un mapa oficial (Bahía Georeferenciada) donde se listan algunas ferias municipales.
 Los feriantes ya usan activamente redes sociales (Instagram, Facebook) para difundir fechas y ubicaciones, lo que da una base de datos a digitalizar.
 En varios casos hay articulación con organizaciones (INTA, UNS, Cáritas, sociedades de fomento) que podrían integrarse como actores del sistema.
+
 Puntos débiles:
 No hay un estudio sistemático ni información oficial centralizada sobre funcionamiento, organización e integrantes de las ferias; ninguna entidad centraliza su dinámica.
 La difusión depende del esfuerzo individual de cada feriante u organizador, sin un canal único: esto dificulta que el público sepa qué ferias funcionan hoy y en qué horario, ya que muchas ferias no tienen ubicación ni horario fijo.
