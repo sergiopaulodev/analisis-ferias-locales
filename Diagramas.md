@@ -4,7 +4,7 @@
 
 **Diagrama de contexto (Feriante/Instructor Municipal/Analista BI)**
 
-<img width="767" height="463" alt="image" src="https://github.com/user-attachments/assets/e03b3034-5018-41a0-b96b-8f2a8d181855" />
+<img width="1325" height="800" alt="Gemini_Generated_Image_r47s6qr47s6qr47s" src="https://github.com/user-attachments/assets/632e1849-fc79-4c08-9605-9e0ebc240f60" />
 
 **Diagrama de conteto (General)**
 
