@@ -27,7 +27,7 @@ Convenciones del documento: El documento se estructura según el estándar ERS v
 
 Audiencia del proyecto y sugerencias de lectura: El texto está dirigido a los futuros desarrolladores del sistema, analistas, diseñadores de bases de datos.
 
-Alcance del Proyecto: La plataforma busca organizar la información dispersa sobre las ferias de la ciudad. Conectará a los ciudadanos (a través de un mapa interactivo), a los feriantes (mediante registro y listas de espera) y a los organizadores/Municipio (para tareas de fiscalización y armado de estadísticas).
+## Alcance del Proyecto: La plataforma busca organizar la información dispersa sobre las ferias de la ciudad. Conectará a los ciudadanos (a través de un mapa interactivo), a los feriantes (mediante registro y listas de espera) y a los organizadores/Municipio (para tareas de fiscalización y armado de estadísticas).
 
 ### Referencias: 
 
