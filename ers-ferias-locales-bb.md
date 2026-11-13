@@ -49,7 +49,9 @@ Marco normativo vigente (Ordenanza 11.947/2003) desactualizado respecto de la he
 Alcance del sistema: El sistema deberá dar soporte a los tres actores identificados:
 
 1-Ciudadanía: centralización de la oferta ferial en un mapa interactivo, con información de horarios, ubicación, rubros y contacto de feriantes.
+
 2-Feriantes y organizadores independientes: visibilización de puestos y formalización de los requisitos de participación.
+
 3-Municipio: disponibilidad de una herramienta de Business Intelligence para el monitoreo del sector, la identificación del nivel de regularización y la detección de necesidades de asistencia o capacitación (en coordinación con el área de Bromatología).
 
 Fuera de alcance: gestión de ferias de carácter esporádico o de escala no representativa, y automatización de trámites de habilitación municipal (continúan gestionando por los canales administrativos vigentes).
