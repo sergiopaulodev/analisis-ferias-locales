@@ -147,7 +147,19 @@ Documentación: Se incorporará soporte de ayuda en línea y una guía visual or
 --------------------------
 
 ## 7. Otros requerimientos (Técnicas de Exploración)
- 
+ Glosario de Actores
+| Categoría | Descripción |
+|-----------|-------------|
+| **Desempeño** | El mapa interactivo y el motor de búsqueda deben ofrecer respuestas ágiles, en un tiempo menor a 2 segundos. |
+| **Seguridad** | Protección de la información mediante cifrado de contraseñas y conexiones seguras. |
+| **Estabilidad y Consistencia** | Operaciones atómicas en la gestión de la fila de espera para evitar la doble asignación de un mismo puesto ferial. |
+| **Usabilidad** | Interfaz simple e intuitiva que no requiera tutoriales extensos, con buen contraste visual para su uso al aire libre bajo la luz solar. |
+| **Compatibilidad** | Funcionamiento fluido en los principales navegadores (Chrome, Firefox, Safari y Edge) y soporte adaptado para dispositivos móviles Android e iOS. |
+| **Portabilidad y Datos Móviles** | Optimización de la carga de imágenes y recursos para un bajo consumo de datos móviles, considerando el uso frecuente en plazas y parques públicos. |
+| **Disponibilidad** | Sistema operativo y accesible de forma permanente, priorizando los horarios habituales de feria (idealmente 24 horas). |
+| **Documentación** | Ayuda en línea y guía visual para facilitar el primer ingreso y registro de los feriantes. |
+
+
 
  
  
