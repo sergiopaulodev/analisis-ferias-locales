@@ -8,4 +8,4 @@
 
 **Diagrama de USO (General)**
 
-<img width="1376" height="784" alt="Gemini_Generated_Image_ifk0ctifk0ctifk0" src="https://github.com/user-attachments/assets/b293c7b9-fd02-4395-a243-e632251737ec" />
+<img width="1364" height="768" alt="Gemini_Generated_Image_tjwtn4tjwtn4tjwt" src="https://github.com/user-attachments/assets/25035de9-23a2-40ed-abaa-33b6ed8c77d1" />
