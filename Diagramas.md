@@ -4,7 +4,7 @@
 
 **Diagrama de USO (Feriante/Instructor Municipal/Analista BI)**
 
-<img width="1336" height="800" alt="Gemini_Generated_Image_1a3was1a3was1a3w" src="https://github.com/user-attachments/assets/7bc474a9-736d-42b3-a90f-0e6fb3d143ea" />
+<img width="1336" height="800" alt="Gemini_Generated_Image_1a3was1a3was1a3w" src="https://github.com/user-attachments/assets/cf8d75a1-f4e8-4af9-aced-4a9387e83395" />
 
 **Diagrama de USO (General)**
 
